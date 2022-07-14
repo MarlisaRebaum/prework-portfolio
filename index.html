@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Marlisa's Portfolio</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+    <a name="top"></a>
+    <nav>
+        <ul>
+            <li><a href="#top">Home</a></li>
+            <li><a href="#main">About Me</a></li>
+            <li><a href="#hobbies">Hobbies</a></li>
+            <li><a href="#contact-form">Contact Me</a></li>
+        </ul>
+    </nav>
+    <div class="hero-image">
+        <div class="hero-text">
+            <h1>Hello, I'm</h1>
+            <h2>Marlisa Rebaum</h2>
+            <p>(future) Web Developer</p>
+        </div>
+    </div>
+    <main>
+        <div id="main">
+            <div id="sidebar">
+                <div class="about-me-image">
+                    <img src="images/aboutme.jpg" alt="Picture_of_Marlisa">
+                </div>
+                <div class="info">
+                    <h1>Contact Me</h1>
+                        <ul>
+                            <li><a class="message" href="#contact-form">Send a Message</a></li>
+                            <br>
+                            <li class="follow">or follow me</li>
+                            <br>
+                            <li><a class = "linkedin" href="https://www.linkedin.com/in/marlisa-rebaum-482659232/"target="blank"><ion-icon name="logo-linkedin"></ion-icon>
+                            </a><a class="github" href="https://github.com/marlisar" target="blank"><ion-icon name="logo-github"></ion-icon>
+                            </a></li>
+                        </ul>
+                </div>
+            </div>
+            <div class="text">
+                <h1>Hello,</h1>
+                <h2>so lovely to meet you!</h2>
+                <p>You know that little emoji with the head exploding and brain
+                     popping out of it? That describes me right now. As you are 
+                     reading this, I most likely look exactly like that while 
+                     staring at my computer while simultaneously stress-baking 
+                     a cake that, if eaten in its entirety, will make all of my 
+                     stress vanish in the form of a food-coma later this 
+                     evening. I have taken on a new challenge of becoming a 
+                     web developer and although I am so grateful and excited 
+                     for the opportunity, it is unlike anything I have ever 
+                     done.
+                </p>
+                <p>During high school, when I first considered the possibility 
+                    of even going to college, I felt that as a woman, technical 
+                    fields were never presented as an option from my career 
+                    advisors. I ended up earning both a bachelor's and master's 
+                    degree in teaching. Through my extensive college 
+                    experience, I learned that although I enjoy being a 
+                    teacher in terms of helping others learn new materials, 
+                    supporting others in their learning goals, and using 
+                    creative problem solving to make the classroom and learning 
+                    run more smoothly, I do not so much enjoy teaching in a 
+                    traditional classroom. As I have grown more confident in my 
+                    skills and abilities through my education, I have also 
+                    gained the confidence to go outside my comfort zone and 
+                    explore other career opportunities that align more with 
+                    my long-term dreams and passions.
+                </p>
+                <p>I want to be a software developer because it allows me to 
+                    use a combination of creative thinking and problem solving. 
+                    As I am a firm believer of lifelong learning, I am excited 
+                    for a career that allows many opportunities for 
+                    professional and personal growth. I know this journey is 
+                    going to be difficult, but I am excited to start on an 
+                    exciting, new careers path.
+                </p>
+            </div>
+        </div>
+    <div id="hobbies">
+        <div>
+            <h1>Hobbies</h1>
+        </div>
+        <div class="grid-container">
+            <div class="grid-item">
+                <img src="images/flower.jpg" alt="Picture_of_Peony">
+                <br>
+                <h2>Photography</h2>
+                <p>I love taking pictures of animals, nature, and people. I am 
+                    self-taught but would love to take classes one day to hone my 
+                    skills.</p>
+            </div>
+            <div class="grid-item">
+                <img src="images/dog.jpg" alt="Picture_of_Dog">
+                <br>
+                <h2>Dog-Sitting</h2>
+                <p>Although some may call this my side-hustle, I love dog 
+                    sitting. I love getting to have a little pooch to hang 
+                    out with, without the responsibility of finding someone to 
+                    watch them when I want to travel. </p>
+                <br>
+                <br>
+                <br>
+            </div>
+            <div class="grid-item">
+                <img src="images/backpacking.jpg" alt="Picture_of_Marlisa_Backpacking">
+                <br>
+                <h2>Backpacking</h2>
+                <p>I love the healing and re-energizing power of nature. 
+                    Spending a weekend out by a lake, just with friends or my 
+                    partner, is the perfect way to recharge from a busy week.</p>
+            </div>
+        </div>
+    </div>
+    <div id="contact-form">
+        <h1>Contact Me</h1>
+        <br>
+        <div class="contact">
+            <form action="mailto:marlisa@rebaum.com" method="POST">
+                <label for="name">Name:</label>
+                <br>
+                <input type="text" id="name" placeholder="Your Name">
+                <br>
+                <label for="email">E-mail:</label>
+                <br>
+                <input type="text" id="email" placeholder="Your Email">
+                <br>
+                <label for="body">Message:</label>
+                <br>
+                <textarea id="body" placeholder="Your Message" rows="10"></textarea>
+                <br>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+        <div>
+            <button onclick="topFunction()" id="top-button">Top</button>
+        </div>
+    </div>
+    </main>
+    <footer>
+        <hr>
+        <div>
+            &copy Marlisa Rebaum 2022
+        </div>
+    </footer>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+</body>
+</html>

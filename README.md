@@ -18,11 +18,11 @@ at using HTML and CSS to share a little about myself.
 
 
 ## General Information
-- The task for this project was to use CSS grid and create a simple HTML and CSS 
+The task for this project was to use CSS grid and create a simple HTML and CSS 
 portfolio. The purpose was to practice using CSS grid and be creative with the 
 styling to really show who we are. The portfolio had to include the following:
-- navbar
-- hero image with text
+- a navbar
+- a hero image with text
 - "about me" section
 - at least one use of CSS grid
 - (non-functional) contact form
@@ -33,8 +33,8 @@ offset border on my images, played around with transparency, etc.
 
 
 ## Technologies Used
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ## Screenshots
@@ -45,7 +45,7 @@ Offset Border:
 ![Offset Border](./images/offset-border.JPG)
 
 Contact Form:
-![Contact Form](.images/first-form.JPG)
+![Contact Form](./images/first-form.JPG)
 
 
 ## Project Status

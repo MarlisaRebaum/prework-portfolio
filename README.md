@@ -5,7 +5,7 @@ at using HTML and CSS to share a little about myself.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Links] (#links)
+* [Links](#links)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)

@@ -3,10 +3,9 @@
 the full-stack software engineering bootcamp I attended. This was my first attempt
 at using HTML and CSS to share a little about myself.
 
-> You can find a live demo [_here_](https://marlisarebaum.github.io/prework-portfolio/).
-
 ## Table of Contents
 * [General Info](#general-information)
+* [Links] (#links)
 * [Technologies Used](#technologies-used)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
@@ -28,6 +27,9 @@ styling to really show who we are. The portfolio had to include the following:
 I used this project as an opportunity to get creative with my CSS. For example,
 I practiced rotating text using transform: rotate(-10deg) and practice having an
 offset border on my images, played around with transparency, etc.
+
+## Links
+- Live Demo URL: [https://marlisarebaum.github.io/prework-portfolio](https://marlisarebaum.github.io/prework-portfolio)
 
 
 ## Technologies Used

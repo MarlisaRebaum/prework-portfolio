@@ -38,13 +38,14 @@ offset border on my images, played around with transparency, etc.
 
 
 ## Screenshots
-Practice Using a Hero Image and Overlaying Text on Images:
+
+# Practice Using a Hero Image and Overlaying Text on Images:
 ![Hero Image Screenshot](./images/hero-image-screenshot.JPG)
 
-Practice Creating an Offset Border Using CSS:
+# Practice Creating an Offset Border Using CSS:
 ![Offset Border](./images/offset-border.JPG)
 
-First Form I Created Using HTML:
+# First Form I Created Using HTML:
 ![Contact Form](./images/first-form.JPG)
 
 
